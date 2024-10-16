@@ -110,6 +110,7 @@ Special thanks to the Radiological Society of North America (RSNA) for providing
 References to papers and resources that informed this project can be found in the project documentation.
 
 ### Notes:
+
 1. **Adjust Sections:** Feel free to modify the content, especially in the "Approaches" section, where you may want to add more specific details about your implementations.
 2. **Add Links:** If you have a `requirements.txt` file or a license file, ensure they exist in your repo; otherwise, you can remove those sections.
 3. **Future Directions:** If you have specific ideas for future work or improvements, feel free to elaborate on those.
