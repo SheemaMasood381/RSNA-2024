@@ -76,13 +76,11 @@ To run this project locally, follow these steps:
 
 
 2. Navigate to the project directory:
-
   ```bash
   cd RSNA-2024-LumbarSpine-DegenerationClassification
 
 
 3. Install the required packages:
-
   ```bash
   pip install -r requirements.txt
 
