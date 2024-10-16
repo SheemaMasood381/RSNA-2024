@@ -74,15 +74,18 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/SheemaMasood381/RSNA-2024-LumbarSpine-DegenerationClassification.git
 
+
 2. Navigate to the project directory:
 
   ```bash
   cd RSNA-2024-LumbarSpine-DegenerationClassification
 
+
 3. Install the required packages:
 
-  ```bashbash
+  ```bash
   pip install -r requirements.txt
+
 
 ## Usage
 To use the model, follow these instructions:
