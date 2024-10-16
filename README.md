@@ -73,3 +73,44 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SheemaMasood381/RSNA-2024-LumbarSpine-DegenerationClassification.git
+
+2. Navigate to the project directory:
+
+  ```bash
+  cd RSNA-2024-LumbarSpine-DegenerationClassification
+
+3. Install the required packages:
+
+  ```bashbash
+  pip install -r requirements.txt
+
+## Usage
+To use the model, follow these instructions:
+
+## Preprocess the MRI images as specified in the code.
+1- Train the models (VGG, DenseNet, EfficientNet) using the provided scripts.
+2- Evaluate the model performance using the evaluation metrics implemented in the code.
+
+## Results
+The detailed results of the models are available in the respective implementation files. The classification reports and confusion matrices provide insights into the model's strengths and weaknesses, particularly regarding the identification of moderate cases.
+
+## Next Steps
+Potential improvements and future work include:
+
+  - Further optimization of hyperparameters.
+  - Implementation of advanced data augmentation techniques.
+  -Exploration of ensemble methods to enhance model accuracy.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+Special thanks to the Radiological Society of North America (RSNA) for providing the dataset.
+References to papers and resources that informed this project can be found in the project documentation.
+
+### Notes:
+1. **Adjust Sections:** Feel free to modify the content, especially in the "Approaches" section, where you may want to add more specific details about your implementations.
+2. **Add Links:** If you have a `requirements.txt` file or a license file, ensure they exist in your repo; otherwise, you can remove those sections.
+3. **Future Directions:** If you have specific ideas for future work or improvements, feel free to elaborate on those.
+
+
