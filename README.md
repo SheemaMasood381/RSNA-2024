@@ -89,7 +89,9 @@ To run this project locally, follow these steps:
 To use the model, follow these instructions:
 
 ## Preprocess the MRI images as specified in the code.
+
 1- Train the models (VGG, DenseNet, EfficientNet) using the provided scripts.
+
 2- Evaluate the model performance using the evaluation metrics implemented in the code.
 
 ## Results
