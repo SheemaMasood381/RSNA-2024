@@ -76,13 +76,13 @@ To run this project locally, follow these steps:
 
 
 2. Navigate to the project directory:
-  ```bash
-  cd RSNA-2024-LumbarSpine-DegenerationClassification
+   ```bash
+   cd RSNA-2024-LumbarSpine-DegenerationClassification
 
 
 3. Install the required packages:
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
 ## Usage
@@ -108,11 +108,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 Special thanks to the Radiological Society of North America (RSNA) for providing the dataset.
 References to papers and resources that informed this project can be found in the project documentation.
-
-### Notes:
-
-1. **Adjust Sections:** Feel free to modify the content, especially in the "Approaches" section, where you may want to add more specific details about your implementations.
-2. **Add Links:** If you have a `requirements.txt` file or a license file, ensure they exist in your repo; otherwise, you can remove those sections.
-3. **Future Directions:** If you have specific ideas for future work or improvements, feel free to elaborate on those.
 
 
